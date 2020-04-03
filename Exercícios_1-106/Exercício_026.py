@@ -1,0 +1,8 @@
+frase = input('Digite uma frase: ').strip()
+frase = frase.lower()
+aQtd = frase.count('a')
+aPri = frase.find('a')
+aUlt = frase.rfind('a')
+print('Há {} letras "a" nesta frase'.format(aQtd))
+print('O primeiro "a" se encontra na posiçao {}'.format(aPri + 1))
+print('O último "a" se encontra na posição {}'.format(aUlt + 1))
