@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a6ca8ad-8c2a-481c-928c-598ab98cc321" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_111/UtilidadesCEV/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_111/UtilidadesCEV/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_112/Exercício_112.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/dados/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/moeda/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Módulos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.a">
+  <component name="RunManager" selected="Python.Exercício_112">
     <configuration name="Exercício_045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso_Em_Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,58 +206,75 @@
       <option name="project" value="LOCAL" />
       <updated>1586128087718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualização do exercício 112">
+      <created>1586238229077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586238229077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualização da biblioteca Emoji e exercício 112" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização da biblioteca Emoji e exercício 112" />
+    <MESSAGE value="Atualização do exercício 112" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização do exercício 112" />
   </component>
   <component name="WindowStateProjectService">
     <state x="279" y="201" width="454" height="333" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586127208719">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
     <state x="279" y="201" width="454" height="333" key="#com.intellij.tools.ToolEditorDialog/0.0.1024.741@0.0.1024.741" timestamp="1586127208719" />
-    <state x="0" y="0" width="1014" height="739" key="CommitChangelistDialog2" timestamp="1586128087344">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state x="0" y="0" width="1014" height="739" key="CommitChangelistDialog2" timestamp="1586238227623">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state x="0" y="0" width="1014" height="739" key="CommitChangelistDialog2/0.0.1024.741@0.0.1024.741" timestamp="1586128087344" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1024.743@0.0.1024.743" timestamp="1586238227623" />
     <state x="295" y="127" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586127126349">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
     <state x="295" y="127" width="424" height="482" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1586127126349" />
-    <state width="1001" height="267" key="GridCell.Tab.0.bottom" timestamp="1586132206867">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state width="1003" height="222" key="GridCell.Tab.0.bottom" timestamp="1586241105103">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state width="1001" height="267" key="GridCell.Tab.0.bottom/0.0.1024.741@0.0.1024.741" timestamp="1586132206867" />
-    <state width="1001" height="267" key="GridCell.Tab.0.center" timestamp="1586132206865">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state width="1003" height="222" key="GridCell.Tab.0.bottom/0.0.1024.743@0.0.1024.743" timestamp="1586241105103" />
+    <state width="1003" height="222" key="GridCell.Tab.0.center" timestamp="1586241105101">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state width="1001" height="267" key="GridCell.Tab.0.center/0.0.1024.741@0.0.1024.741" timestamp="1586132206865" />
-    <state width="1001" height="267" key="GridCell.Tab.0.left" timestamp="1586132206864">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state width="1003" height="222" key="GridCell.Tab.0.center/0.0.1024.743@0.0.1024.743" timestamp="1586241105101" />
+    <state width="1003" height="222" key="GridCell.Tab.0.left" timestamp="1586241105100">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state width="1001" height="267" key="GridCell.Tab.0.left/0.0.1024.741@0.0.1024.741" timestamp="1586132206864" />
-    <state width="1001" height="267" key="GridCell.Tab.0.right" timestamp="1586132206865">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state width="1003" height="222" key="GridCell.Tab.0.left/0.0.1024.743@0.0.1024.743" timestamp="1586241105100" />
+    <state width="1003" height="222" key="GridCell.Tab.0.right" timestamp="1586241105102">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state width="1001" height="267" key="GridCell.Tab.0.right/0.0.1024.741@0.0.1024.741" timestamp="1586132206865" />
-    <state width="1001" height="220" key="GridCell.Tab.1.bottom" timestamp="1585885810161">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state width="1003" height="222" key="GridCell.Tab.0.right/0.0.1024.743@0.0.1024.743" timestamp="1586241105102" />
+    <state width="1003" height="222" key="GridCell.Tab.1.bottom" timestamp="1586241105106">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state width="1001" height="220" key="GridCell.Tab.1.bottom/0.0.1024.741@0.0.1024.741" timestamp="1585885810161" />
-    <state width="1001" height="220" key="GridCell.Tab.1.center" timestamp="1585885810160">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state width="1003" height="222" key="GridCell.Tab.1.bottom/0.0.1024.743@0.0.1024.743" timestamp="1586241105106" />
+    <state width="1003" height="222" key="GridCell.Tab.1.center" timestamp="1586241105105">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state width="1001" height="220" key="GridCell.Tab.1.center/0.0.1024.741@0.0.1024.741" timestamp="1585885810160" />
-    <state width="1001" height="220" key="GridCell.Tab.1.left" timestamp="1585885810160">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state width="1003" height="222" key="GridCell.Tab.1.center/0.0.1024.743@0.0.1024.743" timestamp="1586241105105" />
+    <state width="1003" height="222" key="GridCell.Tab.1.left" timestamp="1586241105104">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state width="1001" height="220" key="GridCell.Tab.1.left/0.0.1024.741@0.0.1024.741" timestamp="1585885810160" />
-    <state width="1001" height="220" key="GridCell.Tab.1.right" timestamp="1585885810160">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state width="1003" height="222" key="GridCell.Tab.1.left/0.0.1024.743@0.0.1024.743" timestamp="1586241105104" />
+    <state width="1003" height="222" key="GridCell.Tab.1.right" timestamp="1586241105105">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state width="1001" height="220" key="GridCell.Tab.1.right/0.0.1024.741@0.0.1024.741" timestamp="1585885810160" />
+    <state width="1003" height="222" key="GridCell.Tab.1.right/0.0.1024.743@0.0.1024.743" timestamp="1586241105105" />
     <state x="15" y="4" key="SettingsEditor" timestamp="1586127485488">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
@@ -276,5 +288,16 @@
       <screen x="0" y="0" width="1024" height="741" />
     </state>
     <state x="317" y="289" width="390" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.741@0.0.1024.741" timestamp="1586128049898" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercícios_112/Exercício_112.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
