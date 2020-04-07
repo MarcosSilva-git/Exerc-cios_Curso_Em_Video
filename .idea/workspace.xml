@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a6ca8ad-8c2a-481c-928c-598ab98cc321" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios_112/Exercício_112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/dados/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji-0.5.4-py3.8.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji-0.5.4-py3.8.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji-0.5.4-py3.8.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji-0.5.4-py3.8.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji-0.5.4-py3.8.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji-0.5.4-py3.8.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji-0.5.4-py3.8.egg-info/zip-safe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji/core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.8/site-packages/emoji/unicode_codes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_1-106/Exercício_045.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_1-106/Exercício_045.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_111/Exercício_111.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_111/Exercício_111.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_111/UtilidadesCEV/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_111/UtilidadesCEV/moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios_111/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/moeda/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_111/UtilidadesCEV/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios_111/UtilidadesCEV/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_112/Exercício_112.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/dados/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios_112/UtilidadesCEV/moeda/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +56,7 @@
       <recent name="$PROJECT_DIR$/Módulos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercício_045">
+  <component name="RunManager" selected="Python.a">
     <configuration name="Exercício_045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso_Em_Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,27 +70,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_1-106/Exercício_045.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercício_110" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Curso_Em_Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_110" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_110/Exercício_110.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,6 +120,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercício_112" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Em_Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_112" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_112/Exercício_112.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Curso_Em_Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,13 +162,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Curso_Em_Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios_1-106" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios_1-106/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercício_045" />
-        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.Exercício_112" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.Exercício_111" />
-        <item itemvalue="Python.Exercício_110" />
+        <item itemvalue="Python.Exercício_045" />
       </list>
     </recent_temporary>
   </component>
@@ -195,33 +204,49 @@
       <option name="presentableId" value="Default" />
       <updated>1585884532457</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atualização da biblioteca Emoji e exercício 112">
+      <created>1586128087718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586128087718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualização da biblioteca Emoji e exercício 112" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização da biblioteca Emoji e exercício 112" />
   </component>
   <component name="WindowStateProjectService">
     <state x="279" y="201" width="454" height="333" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586127208719">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
     <state x="279" y="201" width="454" height="333" key="#com.intellij.tools.ToolEditorDialog/0.0.1024.741@0.0.1024.741" timestamp="1586127208719" />
+    <state x="0" y="0" width="1014" height="739" key="CommitChangelistDialog2" timestamp="1586128087344">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="0" y="0" width="1014" height="739" key="CommitChangelistDialog2/0.0.1024.741@0.0.1024.741" timestamp="1586128087344" />
     <state x="295" y="127" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586127126349">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
     <state x="295" y="127" width="424" height="482" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1586127126349" />
-    <state width="1001" height="562" key="GridCell.Tab.0.bottom" timestamp="1586127956781">
+    <state width="1001" height="267" key="GridCell.Tab.0.bottom" timestamp="1586132206867">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state width="1001" height="562" key="GridCell.Tab.0.bottom/0.0.1024.741@0.0.1024.741" timestamp="1586127956781" />
-    <state width="1001" height="562" key="GridCell.Tab.0.center" timestamp="1586127956780">
+    <state width="1001" height="267" key="GridCell.Tab.0.bottom/0.0.1024.741@0.0.1024.741" timestamp="1586132206867" />
+    <state width="1001" height="267" key="GridCell.Tab.0.center" timestamp="1586132206865">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state width="1001" height="562" key="GridCell.Tab.0.center/0.0.1024.741@0.0.1024.741" timestamp="1586127956780" />
-    <state width="1001" height="562" key="GridCell.Tab.0.left" timestamp="1586127956780">
+    <state width="1001" height="267" key="GridCell.Tab.0.center/0.0.1024.741@0.0.1024.741" timestamp="1586132206865" />
+    <state width="1001" height="267" key="GridCell.Tab.0.left" timestamp="1586132206864">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state width="1001" height="562" key="GridCell.Tab.0.left/0.0.1024.741@0.0.1024.741" timestamp="1586127956780" />
-    <state width="1001" height="562" key="GridCell.Tab.0.right" timestamp="1586127956780">
+    <state width="1001" height="267" key="GridCell.Tab.0.left/0.0.1024.741@0.0.1024.741" timestamp="1586132206864" />
+    <state width="1001" height="267" key="GridCell.Tab.0.right" timestamp="1586132206865">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state width="1001" height="562" key="GridCell.Tab.0.right/0.0.1024.741@0.0.1024.741" timestamp="1586127956780" />
+    <state width="1001" height="267" key="GridCell.Tab.0.right/0.0.1024.741@0.0.1024.741" timestamp="1586132206865" />
     <state width="1001" height="220" key="GridCell.Tab.1.bottom" timestamp="1585885810161">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
@@ -242,10 +267,11 @@
       <screen x="0" y="0" width="1024" height="741" />
     </state>
     <state x="15" y="4" key="SettingsEditor/0.0.1024.741@0.0.1024.741" timestamp="1586127485488" />
-    <state x="205" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1586113866738">
-      <screen x="0" y="0" width="1024" height="741" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1586238180672">
+      <screen x="0" y="0" width="1024" height="743" />
     </state>
     <state x="205" y="197" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1586113866738" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.743@0.0.1024.743" timestamp="1586238180672" />
     <state x="317" y="289" width="390" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586128049898">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
